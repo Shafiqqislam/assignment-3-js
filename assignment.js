@@ -1,6 +1,5 @@
-//https://github.com/Shafiqqislam/assignment-3-js
-
 //kilometerToMeter part start
+
 function kilometerToMeter(distance){
     var meter = distance*1000;    //1 kilometer=1000 meter 
     if(distance < 0){
